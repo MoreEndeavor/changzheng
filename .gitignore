@@ -1,0 +1,11 @@
+/target/
+/pom.xml
+/.settings/
+/.classpath
+/.idea/
+.idea/
+/idea/
+*.ipr
+*.iml
+*.iws
+/.project
